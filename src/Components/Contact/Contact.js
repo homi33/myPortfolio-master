@@ -54,12 +54,10 @@ const Contact = () => {
         <Fade bottom>
           <div className="col-xl-5 col-lg-5 col-md-5 col-sm-5">
             <div className="contact-form-iamge">
-    <picture>
               <img
                 src="https://images.pexels.com/photos/4348403/pexels-photo-4348403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="contact form image"
+                alt="contact form"
               />
-                  </picture>
             </div>
           </div>
         </Fade>

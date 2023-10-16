@@ -41,7 +41,7 @@ const ProjectList = ({ name, des, projectlink, techused }) => {
               <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12" key={index}>
                 <div className="tech-used-in-project">
                   <p style={{ backgroundColor: colors[index] }}>
-                    {tech.techname}
+                    {tech}
                   </p>
                 </div>
               </div>
